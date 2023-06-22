@@ -6,8 +6,8 @@ public class BonusMilesService {
             bonus = (price / 20);
         } else {
             bonus = 0;
-            }
+        }
         return bonus;
     }
 
-    }
+}
